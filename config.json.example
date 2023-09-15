@@ -1,5 +1,5 @@
 {
-  "TOKEN": "",
+  "TOKEN": "a",
   "MAX_PLAYLIST_SIZE": 10,
   "PREFIX": "/",
   "PRUNING": false,
